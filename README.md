@@ -1,2 +1,2 @@
 # FinTravel
-A travel Booking System
+A travel booking website 
